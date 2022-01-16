@@ -5,7 +5,7 @@
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><br>
 </p>
 
 <h3 align="center">MS @ <a href=https://www.trentu.ca target="blank">TRENT</a>, BSc @ <a href=https://www.yorku.ca target="blank">YorkU</a>, Intern @ <a href=https://www.x2analytics.com target="blank">X2Analytics</a></h3>
