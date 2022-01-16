@@ -3,6 +3,7 @@
 <p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3ASQL"><img alt="Kotlin" src="https://img.shields.io/badge/SQL-0095D5.svg?logo=git&logoColor=white"></a>
 </p>
 
 <h3 align="center">MS @ <a href=https://www.trentu.ca target="blank">TRENT</a>, BSc @ <a href=https://www.yorku.ca target="blank">YorkU</a>, Intern @ <a href=https://www.x2analytics.com target="blank">X2Analytics</a></h3>
