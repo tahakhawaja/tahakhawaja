@@ -1,4 +1,4 @@
-<h1 align="center">Hi, It's Tahar</h1>
+<h1 align="center">Hi, It's Taha</h1>
 <h3 align="center">MS @ <a href=https://www.trentu.ca target="blank">TRENT</a>, BSc @ <a href=https://www.yorku.ca target="blank">YorkU</a>, Intern @ <a href=https://www.x2analytics.com target="blank">X2Analytics</a></h3>
 <p align="center">
 <a href=mailto:itsjafer@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsjafer" height="20" width="20" /></a>
