@@ -6,7 +6,7 @@
   
 - 👨‍💼 I'm currently working as Data Scientist at X2Analytics   
   
-- 👷‍ I graduated in Fall 2021! 
+- 👷‍ I graduated in Fall 2021 with a masters in Applied Modelling & Quantitative Methods in Big Data Analytics! 
 
 - 💬 Ask me about my internship, the Big Data program, my projects, or anything else!
   
