@@ -15,9 +15,4 @@
 - 👷‍ I graduated in Fall 2021 with a masters in Big Data Analytics! 
 
 - 💬 Ask me about my internship, the Big Data program, my projects, or anything else!
-  
-🛠 Tech Stack
-  
-💻 Python | MySQL | R | Git | Spark | MongoDB | Hadoop
-  
 </p>
