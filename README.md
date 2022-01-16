@@ -8,6 +8,6 @@
   
 - 👷‍ I graduated in Fall 2021! 
 
-- 💬 Ask me about my internships, the Big Data program, my projects, or anything else!
+- 💬 Ask me about my internship, the Big Data program, my projects, or anything else!
   
 </p>
