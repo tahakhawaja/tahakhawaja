@@ -5,7 +5,7 @@
 </p>
 <p>
   
-- 👨‍💼 I'm currently working as a Data Scientist at Reputationaire   
+- 👨‍💼 I'm currently working as a Data Engineer at Reputationaire   
   
 - 👷‍ I graduated in Fall 2021 with a masters in Big Data Analytics! 
 
