@@ -7,8 +7,8 @@
   
 - 👨‍💼 I'm currently working as a Software Engineer at Reputationaire   
   
-- 👷‍ I graduated in Fall 2021 with a masters in Big Data Analytics! 
+- 👷‍ I graduated in Fall 2021 with a masters in Big Data! 
 
-- 💬 Ask me about my internships, the Big Data program, my projects, or anything else!
+- 💬 Ask me about my roles, the Big Data program, my projects, or anything else!
   
 </p>
