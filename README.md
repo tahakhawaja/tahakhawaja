@@ -5,7 +5,7 @@
 </p>
 <p>
   
-- 👨‍💼 I'm currently working as a Software Engineer at Reputationaire   
+- 👨‍💼 I'm currently working as a Full-Stack Software Engineer at Edventures   
   
 - 👷‍ I graduated in Fall 2021 with a masters in Big Data! 
 
